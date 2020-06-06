@@ -8,3 +8,5 @@ $ make
 $ ./game.e
 
 Have fun!
+
+fix: appearently you also have to download SFML libraries by running something like $ sudo apt-get install libsfml-dev
